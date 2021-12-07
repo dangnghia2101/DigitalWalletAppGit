@@ -6,6 +6,7 @@
 * Sử dụng FlatList để hiển thị danh sách Features và Special Promos
 * Sử dụng TouchableOpacity để tạo hiệu ứng nhấp chọn
 * Lấy quyền truy cập camera sử dụng react-native-camera
+* Sử dụng ScrollView để chứa màn hình login
 
 https://user-images.githubusercontent.com/75264221/138999730-ed48abf6-a002-4334-bde9-1fb3f3590a00.mp4
 
